@@ -1,8 +1,3 @@
-<!-- Banner / Avatar -->
-<p align="center">
-  <img src="https://your-image-host.com/your-avatar.png" width="150" alt="Taavi Roivas Avatar" />
-</p>
-
 # Taavi Roivas — Full Stack Software & Blockchain Developer
 
 Welcome to my GitHub profile! I am a results-driven developer with expertise in building high-performance web applications and decentralized blockchain systems. I’m currently focused on creating secure, fast, and scalable crypto solutions through my *CryptoFlash777*.
